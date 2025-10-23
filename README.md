@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ganesh Khaire
 
-## 🚀 DevOps Enthusiast | Cloud Explorer | Automation
+## 🚀 DevOps Enthusiast | Cloud Explorer | Automation 
 
 Welcome to my GitHub! I’m passionate about streamlining development workflows, automating infrastructure, and building scalable, cloud-native systems.
 
