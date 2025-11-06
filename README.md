@@ -69,6 +69,10 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkhairedevops&theme=radical" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical" height="160" />
+</p>
+
 ---
 
 ## 📈 GitHub Status
@@ -77,9 +81,6 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
   <img src="https://github-profile-trophy.vercel.app/?username=ganeshkhairedevops&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical" height="160" />
-</p>
 
 ---
 
