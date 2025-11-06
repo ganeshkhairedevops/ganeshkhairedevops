@@ -74,10 +74,6 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
 ## 📈 GitHub Status
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshkhairedevops&style=flat&color=blue" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ganeshkhairedevops&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
