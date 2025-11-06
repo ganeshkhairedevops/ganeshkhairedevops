@@ -85,10 +85,6 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshkhairedevops&theme=react-dark" />
-</p>
-
 ---
 
 ### 📬 Connect with Me
