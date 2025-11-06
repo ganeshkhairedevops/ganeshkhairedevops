@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Ganesh Khaire
 
 ## 🚀 DevOps Enthusiast | Cloud Explorer | Automation 
@@ -36,7 +35,6 @@ Welcome to my GitHub! I’m passionate about streamlining development workflows,
 ### 📂 Featured Projects
 
 #### 🚀 Project 1: Infrastructure Deployment with Terraform
-
 **Description:**  
 Provisioned and deployed a production-grade cloud environment using Terraform.
 
@@ -63,11 +61,32 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
 - ✅ Caching: Redis integration
 
 ---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ganeshkhairedevops&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkhairedevops&theme=radical" height="160" />
+</p>
+
+---
+
+## 📈 GitHub Status
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshkhairedevops&style=flat&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganeshkhairedevops&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshkhairedevops&theme=react-dark" />
 </p>
 
 ---
