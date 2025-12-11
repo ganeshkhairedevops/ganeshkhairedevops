@@ -65,13 +65,14 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkhairedevops&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ganeshkhairedevops&theme=radical" height="160" />
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=ganeshkhairedevops&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ganeshkhairedevops&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical&cache_seconds=3600" height="160" />
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=ganeshkhairedevops&layout=compact&theme=radical" height="160" />
 </p>
+
 
 ---
 
