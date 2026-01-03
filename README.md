@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ganesh Khaire
 
-## 🚀 DevOps Engineer | AWS | Kubernetes | Automation 
+## 🚀 Sr Network Engineer | DevOps Engineer | AWS | Kubernetes | Automation 
 
 Welcome to my GitHub! I’m passionate about streamlining development workflows, automating infrastructure, and building scalable, cloud-native systems.
 
