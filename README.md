@@ -60,6 +60,7 @@ ArgoCD · Redis · EKS · Helm · Grafana · Prometheus
 - ✅ Monitoring: Grafana + Prometheus  
 - ✅ Caching: Redis integration
 
+[Application link](https://github.com/ganeshkhairedevops/wanderlust.git)
 ---
 
 ## 📊 GitHub Stats  
