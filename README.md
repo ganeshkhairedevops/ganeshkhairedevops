@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m passionate about streamlining development workflows,
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
-[![Docker Build and Push](https://github.com/ganeshkhairedevops/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ganeshkhairedevops/github-actions-practice/actions/workflows/docker-publish.yml)
+
 ---
 
 ### 📂 Featured Projects
