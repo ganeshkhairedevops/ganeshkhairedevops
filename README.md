@@ -31,6 +31,12 @@ Welcome to my GitHub! I’m passionate about streamlining development workflows,
 </p>
 
 ---
+# GitHub Actions
+
+[![Docker Build and Push](https://github.com/ganeshkhairedevops/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/ganeshkhairedevops/github-actions-practice/actions/workflows/docker-publish.yml)
+
+---
+This repository contains CI/CD workflows using GitHub Actions.
 
 ### 📂 Featured Projects
 
